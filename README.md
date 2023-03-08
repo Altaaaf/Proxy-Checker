@@ -1,10 +1,6 @@
 # Proxy-Checker
 Fast, lightweight asynchronous proxy checker that checks HTTP, HTTPS, SOCKS4, SOCKS5 proxies 
 
-![usage](https://user-images.githubusercontent.com/75543185/223733990-f0e694af-6fca-46aa-b14f-db8f2acda7b7.png)
-
-
-
 ## Get started
 
 ``` {.sourceCode}
@@ -34,3 +30,7 @@ After installing required packages, run main.py
 ``` {.sourceCode}
 main.py --type HTTPS --file proxies.txt --max_tasks 100
 ```
+
+## Usage
+
+![usage](https://user-images.githubusercontent.com/75543185/223733990-f0e694af-6fca-46aa-b14f-db8f2acda7b7.png)
