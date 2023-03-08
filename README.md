@@ -15,6 +15,7 @@ After installing required packages, run main.py
 
 - [x] Supported protocols (HTTP, HTTPS, SOCKS4, SOCKS5)
 - [x] Filter duplicate and invalid proxies
+- [x] Retry if proxy times out with delay
 - [x] Asynchronous
 
 
